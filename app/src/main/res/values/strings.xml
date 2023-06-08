@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <string name="enter_btn">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="auth">Авторизация</string>
+    <string name="profile_title">ПРОФИЛЬ</string>
+    <string name="name">Имя</string>
+</resources>
